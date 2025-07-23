@@ -1,0 +1,1 @@
+Loottable expansion for AMAM VillagersRestricted datapack

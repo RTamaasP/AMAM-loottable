@@ -5,26 +5,12 @@
         "rolls": 1,
         "entries": [
             {
-                "type": "minecraft:item",
-                "functions": [
-                    {
-                        "function": "minecraft:set_components",
-                        "components": {
-                            "minecraft:custom_data": {
-                                "amam_summon": true
-                            },
-                            "custom_name": {"text":"Villager Stick","color":"gold","bold":true,"italic":true,"shadow_color":[0,0,0,1]},
-                            "rarity": "epic",
-                            "enchantment_glint_override": true,
-                            "lore": [{"text":"In case you really ARE"},{"text":"desperate to trade"}]
-                        }
-                    }
-                ],
-                "name": "minecraft:bread",
+                "type": "minecraft:loot_table",
+                "value": "minecraft:entities/customdrops/villager_stick",
                 "conditions": [
                     {
                         "condition": "minecraft:random_chance",
-                        "chance": 0.3
+                        "chance": 0.30
                     }
                 ]
             }

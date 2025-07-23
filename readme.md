@@ -1,1 +1,1 @@
-Loottable expansion for AMAM VillagersRestricted datapack
+Loottable expansion for [AMAM VillagersRestricted](https://modrinth.com/datapack/amam-villagersrestricted) datapack

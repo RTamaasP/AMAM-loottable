@@ -1,3 +1,3 @@
 Loottable expansion for [AMAM VillagersRestricted](https://modrinth.com/datapack/amam-villagersrestricted) datapack.
 
-Adds the custom item needed in the datapack above for villagers' summoning into vanilla structures, like villages, trial chambers or shipwrecks.
+Adds the custom item needed in the datapack above for villagers' summoning into vanilla structures, like villages, trial chambers or shipwrecks. It is a separate datapack in case the user of the datapack linked above would want to set the obtainment of the item independently, I didn't want to hardcode the loottable into the datapack which provides the base mechanics.

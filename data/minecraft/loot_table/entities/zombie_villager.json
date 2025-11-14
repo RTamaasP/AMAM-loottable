@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "value": "entities/customdrops/villager_stick",
+          "value": "amamlt:entities/villager_tome",
           "conditions": [
             {
               "condition": "minecraft:random_chance",
